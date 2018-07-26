@@ -1,0 +1,9 @@
+main{
+    background-color: lightblue;
+}
+aside{
+    background-color: burlywood;
+}
+.main-logo img {
+    width:100px;
+}
